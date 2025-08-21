@@ -10,7 +10,6 @@
 ### 🔬 Research Interests
 - Genomics and Bioinformatics  
 - Biostatistics and Biomedical Informatics   
-rms.
 
 ---
 
