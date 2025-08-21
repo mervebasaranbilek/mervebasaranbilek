@@ -3,7 +3,7 @@
 **Biomedical Engineering and Bioengineering**  
  
 
-📍Riverside & San Diego, CA • UC Riverside 
+📍Riverside CA • UC Riverside 
 
 ---
 
