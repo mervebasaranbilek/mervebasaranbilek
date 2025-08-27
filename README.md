@@ -9,7 +9,8 @@
 
 ### 🔬 Research Interests
 - Genomics and Bioinformatics  
-- Biostatistics and Biomedical Informatics   
+- Biostatistics and Biomedical Informatics
+- Tissue Engineering and Regenerative Medicine
 
 ---
 
